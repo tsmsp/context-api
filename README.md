@@ -1,2 +1,2 @@
-# context-api
-Context api and react router dom
+# context-API
+Context API and react-router dom
